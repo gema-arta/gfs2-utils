@@ -1,4 +1,6 @@
 # gfs2-utils
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgema-arta%2Fgfs2-utils.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgema-arta%2Fgfs2-utils?ref=badge_shield)
+
 
 This package contains the tools needed to create, check, manipulate and analyze
 gfs2 filesystems, along with important scripts required to support gfs2
@@ -79,3 +81,7 @@ gfs2_withdraw_helper   | /usr/libexec/
 See also [doc/README.contributing](doc/README.contributing) for details on
 submitting patches.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgema-arta%2Fgfs2-utils.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgema-arta%2Fgfs2-utils?ref=badge_large)
